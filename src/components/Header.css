@@ -1,0 +1,9 @@
+/* src/components/Header.css */
+.header {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
